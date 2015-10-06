@@ -1,8 +1,8 @@
 <?php
 define('_DB_SERVER_', 'localhost');
 define('_DB_NAME_', 'oobox_ps1');
-define('_DB_USER_', 'oobox_ps1');
-define('_DB_PASSWD_', 'T~E0*HwaJA02~.0');
+define('_DB_USER_', 'oobox_kamil');
+define('_DB_PASSWD_', 'WebDreamer63');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
