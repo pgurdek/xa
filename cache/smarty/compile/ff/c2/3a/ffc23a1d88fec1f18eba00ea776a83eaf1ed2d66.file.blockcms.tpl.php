@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 11:52:10
+<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 12:08:22
          compiled from "D:\wamp\www\xiaomipl\themes\xiaomi\modules\blockcms\blockcms.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:168505613b5eab92919-59525327%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:44025613b9b67a8ed0-64946848%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '168505613b5eab92919-59525327',
+  'nocache_hash' => '44025613b9b67a8ed0-64946848',
   'function' => 
   array (
   ),
@@ -38,9 +38,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5613b5eb096217_10748352',
+  'unifunc' => 'content_5613b9b6bcf7d1_11208485',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5613b5eb096217_10748352')) {function content_5613b5eb096217_10748352($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5613b9b6bcf7d1_11208485')) {function content_5613b9b6bcf7d1_11208485($_smarty_tpl) {?>
 
 <?php if ($_smarty_tpl->tpl_vars['block']->value==1) {?>
 	<!-- Block CMS module -->

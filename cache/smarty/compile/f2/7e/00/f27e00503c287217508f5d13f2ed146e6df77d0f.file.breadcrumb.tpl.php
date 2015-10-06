@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 11:52:15
+<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 12:08:23
          compiled from "D:\wamp\www\xiaomipl\themes\xiaomi\breadcrumb.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:232415613b5ef3b0093-15376508%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:18165613b9b7f179a3-79777820%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '232415613b5ef3b0093-15376508',
+  'nocache_hash' => '18165613b9b7f179a3-79777820',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5613b5ef5bb818_35190838',
+  'unifunc' => 'content_5613b9b82233b5_23741179',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5613b5ef5bb818_35190838')) {function content_5613b5ef5bb818_35190838($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'D:\\wamp\\www\\xiaomipl\\tools\\smarty\\plugins\\modifier.replace.php';
+<?php if ($_valid && !is_callable('content_5613b9b82233b5_23741179')) {function content_5613b9b82233b5_23741179($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'D:\\wamp\\www\\xiaomipl\\tools\\smarty\\plugins\\modifier.replace.php';
 if (!is_callable('smarty_modifier_regex_replace')) include 'D:\\wamp\\www\\xiaomipl\\tools\\smarty\\plugins\\modifier.regex_replace.php';
 ?>
 

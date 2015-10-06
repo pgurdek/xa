@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 11:52:11
+<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 12:08:22
          compiled from "D:\wamp\www\xiaomipl\themes\xiaomi\modules\blockmyaccountfooter\blockmyaccountfooter.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:129635613b5eb0a9a95-82178399%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:160035613b9b6be3052-60298822%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '129635613b5eb0a9a95-82178399',
+  'nocache_hash' => '160035613b9b6be3052-60298822',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5613b5eb272b83_56233874',
+  'unifunc' => 'content_5613b9b6da4443_17023948',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5613b5eb272b83_56233874')) {function content_5613b5eb272b83_56233874($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5613b9b6da4443_17023948')) {function content_5613b9b6da4443_17023948($_smarty_tpl) {?>
 
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 11:52:15
+<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 12:08:23
          compiled from "D:\wamp\www\xiaomipl\themes\xiaomi\modules\blockuserinfo\nav.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:172825613b5ef0c5e63-31148803%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:284055613b9b7bb45d9-89140426%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '172825613b5ef0c5e63-31148803',
+  'nocache_hash' => '284055613b9b7bb45d9-89140426',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5613b5ef191099_57108515',
+  'unifunc' => 'content_5613b9b7c93092_01682441',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5613b5ef191099_57108515')) {function content_5613b5ef191099_57108515($_smarty_tpl) {?><!-- Block user information module NAV  -->
+<?php if ($_valid && !is_callable('content_5613b9b7c93092_01682441')) {function content_5613b9b7c93092_01682441($_smarty_tpl) {?><!-- Block user information module NAV  -->
 <?php if ($_smarty_tpl->tpl_vars['is_logged']->value) {?>
 	<div class="header_user_info">
 		<a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('my-account',true), ENT_QUOTES, 'UTF-8', true);?>

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 11:52:11
+<?php /* Smarty version Smarty-3.1.19, created on 2015-10-06 12:08:22
          compiled from "D:\wamp\www\xiaomipl\themes\xiaomi\modules\blockcontactinfos\blockcontactinfos.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:270405613b5eb28a287-09791211%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:143365613b9b6dbbb47-68024912%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '270405613b5eb28a287-09791211',
+  'nocache_hash' => '143365613b9b6dbbb47-68024912',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5613b5eb349934_92618053',
+  'unifunc' => 'content_5613b9b6e77379_63382717',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5613b5eb349934_92618053')) {function content_5613b5eb349934_92618053($_smarty_tpl) {?><?php if (!is_callable('smarty_function_mailto')) include 'D:\\wamp\\www\\xiaomipl\\tools\\smarty\\plugins\\function.mailto.php';
+<?php if ($_valid && !is_callable('content_5613b9b6e77379_63382717')) {function content_5613b9b6e77379_63382717($_smarty_tpl) {?><?php if (!is_callable('smarty_function_mailto')) include 'D:\\wamp\\www\\xiaomipl\\tools\\smarty\\plugins\\function.mailto.php';
 ?>
 
 <!-- MODULE Block contact infos -->
